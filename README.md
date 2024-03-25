@@ -22,6 +22,14 @@
 >
 > It will display the `shortest route` along with the `estimated time` of arrival.
 
+### Difference from Prev. Maps
+> The difference from the existing map service is that it is possible to search through `information inside the school building`.
+
+> e.g. We can find the path from N1 to E3 using Google Map, Naver Map, etc.
+>       
+> But, we CANNOT find the path from N1 to E3 1339 meeting room.
+>
+
 
 ---
 ## 3. To Join Us
