@@ -1,7 +1,7 @@
 # Project Management
 
 ---
-### 1. Who we are
+### ❓ Who we are
 
 #### Team Name
 - `🧭 Navigators`
@@ -15,7 +15,7 @@
 
 
 ---
-### 2. What we build
+### 🏗 What we build
 
 #### Project Name
 - `Trailblazer` (Team 2 version)
@@ -34,18 +34,18 @@
 
 
 ---
-### 3. To Join Us
+### 👋 To Join Us
 
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/slack-qqh4471/shared_invite/zt-2f8jpc874-w6XjRQVVemu1oA0kqW7bng) [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1J_zG-hYMFz0CRTKQwV_3SvfQXjN19cMA?usp=sharing) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navigators-in-kaist?view_as=public)
 
 
-### 4. Milestones
+### 🚩 Milestones
 
 <img src="./images/milestones.png" />
 
 > `We are now at Requirement Analysis`
 
-### Documents
+### 📃 Documents
 
 * System Requirement Specification `on-going`
 
