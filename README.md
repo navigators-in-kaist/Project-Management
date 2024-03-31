@@ -14,7 +14,20 @@
 ![Name](https://img.shields.io/badge/🇰🇷_Eunbi_Park-%2523121011?style=for-the-badge&labelColor=white&color=black)![Role1](https://img.shields.io/badge/Frontend_Developer-%2523121011?style=for-the-badge&labelColor=white&color=%2366b3ff)
 
 
----
+
+<br>
+<br>
+<br>
+
+### 👋 To Join Us
+
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/slack-qqh4471/shared_invite/zt-2f8jpc874-w6XjRQVVemu1oA0kqW7bng) [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1J_zG-hYMFz0CRTKQwV_3SvfQXjN19cMA?usp=sharing) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navigators-in-kaist?view_as=public)
+
+
+<br>
+<br>
+<br>
+
 ### 🏗 What we build
 
 #### Project Name
@@ -33,17 +46,19 @@
 > It will display the `shortest route` along with the `estimated time` of arrival.
 
 
----
-### 👋 To Join Us
-
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/slack-qqh4471/shared_invite/zt-2f8jpc874-w6XjRQVVemu1oA0kqW7bng) [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1J_zG-hYMFz0CRTKQwV_3SvfQXjN19cMA?usp=sharing) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navigators-in-kaist?view_as=public)
-
+<br>
+<br>
+<br>
 
 ### 🚩 Milestones
 
 <img src="./images/milestones.png" />
 
 > `We are now at Requirement Analysis`
+
+<br>
+<br>
+<br>
 
 ### 📃 Documents
 
