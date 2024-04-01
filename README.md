@@ -54,7 +54,12 @@
 
 <img src="./images/milestones.png" />
 
-> `We are now at Requirement Analysis`
+
+#### WBS
+
+##### 1. Requirement Engineering Phase  👈  `we are now here`
+
+<img src="./images/reqs_wbs.png" />
 
 <br>
 <br>
