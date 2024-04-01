@@ -59,7 +59,7 @@
 
 ##### 1. Requirement Engineering Phase  👈  `we are now here`
 
-<img src="./images/reqs_wbs.png" />
+<img src="./images/reqs_wbs_new.png" />
 
 <br>
 <br>
