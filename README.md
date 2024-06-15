@@ -1,4 +1,4 @@
-# Project Management
+# Trailbalzer @KAIST
 
 ---
 ### ❓ Who we are
@@ -50,28 +50,73 @@
 <br>
 <br>
 
-### 🚩 Milestones
-
-<img src="./images/milestones.png" />
-
-
-#### WBS
-
-##### 1. Requirement Engineering Phase  👈  `we are now here`
-
-<img src="./images/reqs_wbs_new.png" />
-
-<br>
-<br>
-<br>
-
 ### 📃 Documents
 
-* System Requirement Specification `on-going`
+* Google Drive (SRS, Interface, Architecture Documents)
 
-![Ver0_0](https://img.shields.io/badge/Ver0.0-%2523121011?style=for-the-badge&labelColor=white&color=%23757575)[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/spreadsheets/d/1xxH_q1i9sMXfEhxLf_VHzRse_hR3S4kt/edit#gid=681056489)
+![Ver0_0](https://img.shields.io/badge/Ver0.0-%2523121011?style=for-the-badge&labelColor=white&color=%23757575)[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/0/folders/1J_zG-hYMFz0CRTKQwV_3SvfQXjN19cMA)
+
+* ERD
+
+![Ver0_0](https://img.shields.io/badge/Ver0.0-%2523121011?style=for-the-badge&labelColor=white&color=%23757575)[![Google Drive](https://img.shields.io/badge/ERD%20Cloud-8533E7?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.erdcloud.com/d/zqeERkSfcSaKpz8rE)
+
+<br>
+<br>
+<br>
+
+### 🖥 Project Codes
+
+* Backend Server
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navigators-in-kaist/SPRING-BOOT)
+
+<br>
+
+* Mobile Application
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navigators-in-kaist/REACT-NATIVE.git)
+
+<br>
+
+* Admin Console
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navigators-in-kaist/ADMIN-WEB.git)
+
+<br>
+
+* Database
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navigators-in-kaist/POSTRES-DB.git)
 
 
-* UML
+<br>
+<br>
+<br>
 
-`todo`
+### ⚽ Try
+
+<br>
+
+> [!NOTE]
+> The system might not be available at some time. If so, please contact rnjsdn1003@kaist.ac.kr
+
+<br>
+
+#### Mobile Application
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/0/folders/1VGeGpf8Bd0Yj2wvkPsMXAw3FcTgFhLdN)
+
+`Credentials`
+You can use following credentials. Or you can sign up for your own credential!
+- **ID:** testuser0000
+- **PW:** passwd1234
+
+<br>
+
+#### Admin Console
+[![Chrome](https://img.shields.io/badge/Chrome-2DD335?style=for-the-badge&logo=googlechrome&logoColor=white)](http://121.184.96.94:3300)
+
+`Credentials`
+You can use following credentials. Please DO NOT hack our system!
+- **ID:** testadmin0000
+- **PW:** passwd1234
+
